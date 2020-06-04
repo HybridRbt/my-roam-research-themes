@@ -73,4 +73,10 @@ body {
 	.check-container input:checked ~ .checkmark {
 		background-color: var(--primary-color);
 	}
+
+	.block-ref-count-button {
+		font-size: 0.9em;
+		opacity: 0.5;
+		cursor: pointer;
+	}
 }
