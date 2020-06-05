@@ -29,7 +29,6 @@ body {
     }
 
     /* styles page titling */
-
     /* Header - Note title */
     .roam-app h1 {
         color: #f9b637 !important;
@@ -162,7 +161,7 @@ body {
     }
 
     a {
-    color: #53c1dc;
+        color: #53c1dc;
     }
 
     a:focus {
@@ -191,7 +190,6 @@ body {
         border-radius: 3px;
     }
 
-
     /* CodeMirror */
     .CodeMirror {
         background: #091722;
@@ -219,5 +217,4 @@ body {
         text-decoration: #5393a2;
         color: white !important;
     }
-
 }
