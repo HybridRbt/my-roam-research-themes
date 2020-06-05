@@ -126,6 +126,14 @@ body {
         background-color: #1c2e3e;
     }
 
+    .roam-highlight {
+        /* highlighting */
+        background-color: #FDD755;
+        color: #0F1419;
+        border-radius: 2px;
+        padding: 2px 3px 2px 3px;
+    }
+
     /* the reference boxes at the bottom */
     .rm-reference-item {
         background-color: #172133;
